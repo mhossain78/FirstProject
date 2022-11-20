@@ -7,7 +7,7 @@ Feature: UIKitCatalog home page
     Then I click Alert views
     And I click confirm and cancle 
     When I verify confim
-    Then I check page
+
   
    
      
